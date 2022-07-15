@@ -3,7 +3,7 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>br.com.tijo</groupId>
+	<groupId>br.com.engmanager</groupId>
 	<artifactId>api-shared-tools</artifactId>
 	<version>1.0.2</version>
 	<name>api-shared-tools</name>
@@ -22,7 +22,7 @@
 	   <repository>
 	     <id>github</id>
 	     <name>GitHub OWNER Apache Maven Packages</name>
-	     <url>https://maven.pkg.github.com/cleber-ortiz/api-shared-tools</url>
+	     <url>https://maven.pkg.github.com/br-engmanager/api-shared-tools</url>
 	   </repository>
 	</distributionManagement>
 
