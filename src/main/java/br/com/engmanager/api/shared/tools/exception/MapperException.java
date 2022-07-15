@@ -1,4 +1,4 @@
-package br.com.tijo.api.shared.tools.exception;
+package br.com.engmanager.api.shared.tools.exception;
 
 public class MapperException extends Exception{
 

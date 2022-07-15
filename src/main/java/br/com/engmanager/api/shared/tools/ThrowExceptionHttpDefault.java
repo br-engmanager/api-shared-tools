@@ -1,4 +1,4 @@
-package br.com.tijo.api.shared.tools;
+package br.com.engmanager.api.shared.tools;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.client.HttpClientErrorException;
@@ -6,10 +6,10 @@ import org.springframework.web.client.HttpServerErrorException;
 
 import com.google.gson.Gson;
 
-import br.com.tijo.api.shared.tools.exception.BadGatewayException;
-import br.com.tijo.api.shared.tools.exception.DuplicatedException;
-import br.com.tijo.api.shared.tools.exception.NotFoundException;
-import br.com.tijo.api.shared.tools.exception.UnauthorizedException;
+import br.com.engmanager.api.shared.tools.exception.BadGatewayException;
+import br.com.engmanager.api.shared.tools.exception.DuplicatedException;
+import br.com.engmanager.api.shared.tools.exception.NotFoundException;
+import br.com.engmanager.api.shared.tools.exception.UnauthorizedException;
 
 public class ThrowExceptionHttpDefault {
 

@@ -1,6 +1,6 @@
-package br.com.tijo.api.shared.tools;
+package br.com.engmanager.api.shared.tools;
 
-import br.com.tijo.api.shared.tools.exception.MapperException;
+import br.com.engmanager.api.shared.tools.exception.MapperException;
 
 public interface IMapper <E, D> {
 

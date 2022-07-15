@@ -1,4 +1,4 @@
-package br.com.tijo.api.shared.tools.exception;
+package br.com.engmanager.api.shared.tools.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

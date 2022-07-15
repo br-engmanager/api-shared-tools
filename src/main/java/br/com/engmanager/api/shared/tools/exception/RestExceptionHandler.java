@@ -1,4 +1,4 @@
-package br.com.tijo.api.shared.tools.exception;
+package br.com.engmanager.api.shared.tools.exception;
 
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
@@ -11,7 +11,7 @@ import org.springframework.web.client.HttpClientErrorException.Unauthorized;
 import org.springframework.web.context.request.WebRequest;
 import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
 
-import br.com.tijo.api.shared.tools.DefaultHttpJsonResponse;
+import br.com.engmanager.api.shared.tools.DefaultHttpJsonResponse;
 
 @ControllerAdvice
 public class RestExceptionHandler extends ResponseEntityExceptionHandler {

@@ -1,4 +1,4 @@
-package br.com.tijo.api.shared.tools;
+package br.com.engmanager.api.shared.tools;
 
 public class DefaultHttpResponse {
 	
